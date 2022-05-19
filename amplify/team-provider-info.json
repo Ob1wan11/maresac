@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-maresac-dev-100512-authRole",
+      "UnauthRoleArn": "arn:aws:iam::516401110860:role/amplify-maresac-dev-100512-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::516401110860:role/amplify-maresac-dev-100512-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-maresac-dev-100512-deployment",
+      "UnauthRoleName": "amplify-maresac-dev-100512-unauthRole",
+      "StackName": "amplify-maresac-dev-100512",
+      "StackId": "arn:aws:cloudformation:us-east-1:516401110860:stack/amplify-maresac-dev-100512/6a253da0-d74a-11ec-8bb8-12e34b9e0347",
+      "AmplifyAppId": "d15sojw8q0opes"
+    },
+    "categories": {
+      "auth": {
+        "maresaca0c2c106": {}
+      }
+    }
+  }
+}
